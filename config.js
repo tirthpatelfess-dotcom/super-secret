@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "Will You Be My Valentine?",                          // For the love meter
             startText: "Press Yes again pls",                                   // Text before the percentage
-            nextBtn: "Boy bye"                                         // Text for the next button
+            nextBtn: "press this, trust me"                                         // Text for the next button
         },
         third: {
             text: "Will You Be My Valentine? 🌹", // The big question!
